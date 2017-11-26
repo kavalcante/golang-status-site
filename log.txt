@@ -1,0 +1,8 @@
+06/11/2017 01:55:10 - https://www.alura.com.br - online: true
+06/11/2017 01:55:12 - https://random-status-code.herokuapp.com - online: false
+06/11/2017 01:55:13 - https://www.caelum.com.br - online: true
+06/11/2017 01:55:14 - https://www.casadocodigo.com.br - online: true
+06/11/2017 01:55:19 - https://www.alura.com.br - online: true
+06/11/2017 01:55:20 - https://random-status-code.herokuapp.com - online: true
+06/11/2017 01:55:21 - https://www.caelum.com.br - online: true
+06/11/2017 01:55:22 - https://www.casadocodigo.com.br - online: true
